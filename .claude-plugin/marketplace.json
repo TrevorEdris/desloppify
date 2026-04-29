@@ -1,0 +1,17 @@
+{
+  "name": "desloppify",
+  "version": "0.1.0",
+  "description": "Single-plugin marketplace for desloppify",
+  "plugins": [
+    {
+      "name": "desloppify",
+      "version": "0.1.0",
+      "description": "Detects and removes AI-isms from prose. Three skills: detect, rewrite, audit.",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/TrevorEdris/desloppify.git",
+        "path": "./"
+      }
+    }
+  ]
+}
