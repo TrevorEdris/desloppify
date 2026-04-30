@@ -1,0 +1,14 @@
+{
+  "name": "desloppify",
+  "description": "Detects and removes AI-isms from prose. Three skills: detect, rewrite, audit.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Trevor Edris"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/TrevorEdris/desloppify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrevorEdris/desloppify.git"
+  }
+}
